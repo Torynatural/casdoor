@@ -188,6 +188,7 @@
   "verification": {
     "Invalid captcha provider.": "Geçersiz captcha sağlayıcı.",
     "Phone number is invalid in your region %s": "Telefon numaranız bölgenizde geçersiz %s",
+    "The forgot password feature is disabled": "The forgot password feature is disabled",
     "The verification code has already been used!": "Doğrulama kodu zaten kullanılmış!",
     "The verification code has not been sent yet!": "Doğrulama kodu henüz gönderilmedi!",
     "Turing test failed.": "Turing testi başarısız.",

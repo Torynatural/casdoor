@@ -188,6 +188,7 @@
   "verification": {
     "Invalid captcha provider.": "Недійсний провайдер captcha.",
     "Phone number is invalid in your region %s": "Номер телефону недійсний у вашому регіоні %s",
+    "The forgot password feature is disabled": "The forgot password feature is disabled",
     "The verification code has already been used!": "Код підтвердження вже використано!",
     "The verification code has not been sent yet!": "Код підтвердження ще не надіслано!",
     "Turing test failed.": "Тест Тюрінга не пройдено.",

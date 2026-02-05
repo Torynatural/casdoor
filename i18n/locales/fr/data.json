@@ -188,6 +188,7 @@
   "verification": {
     "Invalid captcha provider.": "Fournisseur de captcha invalide.",
     "Phone number is invalid in your region %s": "Le numéro de téléphone n'est pas valide dans votre région %s",
+    "The forgot password feature is disabled": "The forgot password feature is disabled",
     "The verification code has already been used!": "Le code de vérification a déjà été utilisé !",
     "The verification code has not been sent yet!": "Le code de vérification n'a pas encore été envoyé !",
     "Turing test failed.": "Le test de Turing a échoué.",

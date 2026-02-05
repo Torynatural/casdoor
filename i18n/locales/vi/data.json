@@ -188,6 +188,7 @@
   "verification": {
     "Invalid captcha provider.": "Nhà cung cấp captcha không hợp lệ.",
     "Phone number is invalid in your region %s": "Số điện thoại không hợp lệ trong vùng của bạn %s",
+    "The forgot password feature is disabled": "The forgot password feature is disabled",
     "The verification code has already been used!": "Mã xác thực đã được sử dụng!",
     "The verification code has not been sent yet!": "Mã xác thực chưa được gửi!",
     "Turing test failed.": "Kiểm định Turing thất bại.",
